@@ -27,4 +27,6 @@ public class DataTypes {
        System.out.println("Bool: " + Hamada);
     }
     static boolean Hamada ; //default false
+
+    // Hello from day2 branch NOTE: master does not know about me
 }
