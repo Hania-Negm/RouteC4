@@ -2,7 +2,7 @@ package dayThree;
 
 import java.util.Scanner;
 import java.util.Locale;
-public class EmployeeClassPay {
+public class EmployeeGrossPay {
     static void main(String[] args) {
         double hourRate = 15;
         int weeklyWorkingHours = 40;
